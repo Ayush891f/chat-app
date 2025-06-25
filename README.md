@@ -1,5 +1,5 @@
 
-# ChatBuz - Seamless Communication!
+# ChatBuzz - Seamless Communication!
 
 ## Description
 Say Hello to Seamless Communication! 🚀
