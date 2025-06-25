@@ -77,7 +77,7 @@ const NavBar = () => {
               </IconButton>
             </Hidden>
             <Typography variant="h6" className={classes.title}>
-              HIChat
+              ChatBuzz
             </Typography>
             <Hidden xsDown>
               <Button color="inherit" component={Link} to="/">Home</Button>

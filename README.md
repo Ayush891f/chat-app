@@ -4,9 +4,8 @@
 ## Description
 Say Hello to Seamless Communication! 🚀
 
-HiChat is your ultimate destination for hassle-free communication. Say hello to friends, family, and colleagues with ease using our intuitive platform.
+ChatBuzz is your ultimate destination for hassle-free communication. Say hello to friends, family, and colleagues with ease using our intuitive platform.
 
-Check out the live version of HiChat [HERE🔗](https://hichat.w3yogesh.com/).
 
 ### ***Demo accounts***
 
@@ -22,8 +21,6 @@ Check out the live version of HiChat [HERE🔗](https://hichat.w3yogesh.com/).
 
 - pass: 1234
 
-
-![chatwindow](https://github.com/Sandipan103/HiChat/assets/27480542/e9c3e05a-ed16-4dfa-9e4d-cfa676907f79)
 
 
 
@@ -55,17 +52,6 @@ Check out the live version of HiChat [HERE🔗](https://hichat.w3yogesh.com/).
 - [x] Cross-Platform Compatibility
 
 
-### *Chatting Window*
-
-![CHATTING WINDOW](https://github.com/Sandipan103/HiChat/assets/27480542/a08b8e78-6f13-4217-b1ea-c9c1a48a4736)
-
-### *Calling Window*
-![CALLING WINDOW](https://github.com/Sandipan103/HiChat/assets/27480542/b51a8f0d-24cf-48e9-833c-f17fd3455f6e)
-
-### *MY Profile*
-![MYPROFILE WINDOW](https://github.com/Sandipan103/HiChat/assets/27480542/5104c167-d539-446a-a593-0dc497202f4c)
-
-
 ## Technologies Used
 
 **Frontend:** 
@@ -91,13 +77,6 @@ This project consists of two components: the frontend and backend.
 - frontend, made in reactjs
 - backend in express and nodejs
 
-```bash
- git clone https://github.com/Sandipan103/HiChat.git
-```
-
-```bash
-cd HiChat
-```
 
 ## Setting up frontend
 

@@ -190,37 +190,37 @@ const HomePage = () => {
       id: 1,
       name: "Amit Patel",
       comment:
-        "HiChat has revolutionized the way I communicate with my colleagues. It's seamless and efficient.",
+        "ChatBuzz has revolutionized the way I communicate with my colleagues. It's seamless and efficient.",
     },
     {
       id: 2,
       name: "Priya Sharma",
       comment:
-        "I've been using HiChat for months now, and I'm impressed by its user-friendly interface and extensive features.",
+        "I've been using ChatBuzz for months now, and I'm impressed by its user-friendly interface and extensive features.",
     },
     {
       id: 3,
       name: "Rajesh Kumar",
       comment:
-        "As a business owner, I rely on HiChat to stay connected with my clients. It's reliable and secure.",
+        "As a business owner, I rely on ChatBuzz to stay connected with my clients. It's reliable and secure.",
     },
     {
       id: 4,
       name: "Neha Singh",
       comment:
-        "HiChat has made remote learning fun and interactive for my students. Thank you for this amazing platform!",
+        "ChatBuzz has made remote learning fun and interactive for my students. Thank you for this amazing platform!",
     },
     {
       id: 5,
       name: "Deepak Gupta",
       comment:
-        "I use HiChat daily to stay in touch with my family and friends. It's convenient and user-friendly.",
+        "I use ChatBuzz daily to stay in touch with my family and friends. It's convenient and user-friendly.",
     },
     {
       id: 6,
       name: "Sneha Verma",
       comment:
-        "I love how HiChat keeps me organized with its chat groups and file sharing capabilities. It's a game-changer!",
+        "I love how ChatBuzz keeps me organized with its chat groups and file sharing capabilities. It's a game-changer!",
     },
   ];
 
@@ -271,7 +271,7 @@ const HomePage = () => {
                   component="h1"
                   gutterBottom
                 >
-                  HiChat – where connections are effortless.
+                  ChatBuzz – where connections are effortless.
                 </Typography>
                 <Typography
                   variant="body1"
@@ -331,10 +331,10 @@ const HomePage = () => {
             <Grid item xs={12} sm={6}>
               <div>
                 <Typography variant="h4" component="h2" gutterBottom>
-                  About HiChat
+                  About ChatBuzz
                 </Typography>
                 <Typography variant="body1" paragraph>
-                  HiChat is a user-friendly chat application that allows you to
+                  ChatBuzz is a user-friendly chat application that allows you to
                   stay connected with your loved ones.
                 </Typography>
                 <Typography variant="body1" paragraph>
