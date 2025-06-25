@@ -14,9 +14,6 @@ the project has two components
 - frontend, made in reactjs
 - backend in express and nodejs
 
-```bash
- git clone https://github.com/Sandipan103/hiChat.git
-```
 
 ```bash
 cd hiChat
@@ -80,13 +77,6 @@ backend setup done, now hit the most favourite command `npm start`
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-
-# Team
-[Yogesh Kumar Sai](https://github.com/w3yogesh/)
-
-[Sandipan sarkar](https://github.com/Sandipan103/)
-
-[Atmajit Sahoo](https://github.com/atmajitsahu100/)
 
 
 

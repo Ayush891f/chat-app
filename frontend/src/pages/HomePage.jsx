@@ -23,9 +23,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Link } from "react-router-dom";
-import Atmajit from "../assets/atmajit-sahoo.jpg";
-import Sandipan from "../assets/sandipan-sarkar.jpg";
-import W3yogesh from "../assets/w3yogesh.jpg";
+import Ayush from "../assets/ayush.png";
 
 import { AuthContext } from "../context/UserContext";
 import {
@@ -229,30 +227,10 @@ const HomePage = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Atmajit Sahoo",
-      role: "Backend",
-      image: Atmajit,
-      linkedin: "https://www.linkedin.com/in/atmajit-sahoo-9459ab190/",
-      github: "https://github.com/atmajitsahu100",
-      instagram: "https://www.instagram.com/atmajitsahoo/",
-    },
-    {
-      id: 2,
-      name: "Sandipan Sarkar",
-      role: "Backend",
-      image: Sandipan,
-      linkedin: "https://www.linkedin.com/in/sandipan-sarkar-9203a8247",
-      github: "https://github.com/Sandipan103",
-      instagram: "https://www.instagram.com/sandipansarkar40",
-    },
-    {
-      id: 3,
-      name: "Yogesh Kumar Sai",
-      role: "Frontend and Backend",
-      image: W3yogesh,
-      linkedin: "https://www.linkedin.com/in/w3yogesh",
-      github: "https://github.com/w3yogesh",
-      instagram: "https://www.instagram.com/w3yogesh",
+      name: "Ayush Gupta",
+      role: "Full Stack developer",
+      image: Ayush,
+     
     },
   ];
 
