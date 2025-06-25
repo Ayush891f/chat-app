@@ -1,5 +1,5 @@
 
-# HiChat - Seamless Communication!
+# ChatBuz - Seamless Communication!
 
 ## Description
 Say Hello to Seamless Communication! 🚀
