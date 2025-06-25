@@ -55,13 +55,6 @@ Check out the live version of HiChat [HERE🔗](https://hichat.w3yogesh.com/).
 - [x] Cross-Platform Compatibility
 
 
-
-## Screenshots
-### *Home Page*
-
-![HOMEPGAE](https://github.com/Sandipan103/HiChat/assets/27480542/bd7eae3f-9053-4ad9-848e-33c3065bd646)
-
-
 ### *Chatting Window*
 
 ![CHATTING WINDOW](https://github.com/Sandipan103/HiChat/assets/27480542/a08b8e78-6f13-4217-b1ea-c9c1a48a4736)
@@ -89,16 +82,6 @@ Check out the live version of HiChat [HERE🔗](https://hichat.w3yogesh.com/).
 
 **Other:**
 - Zego Cloud
-
-
-# Team
-[Atmajit Sahoo](https://github.com/atmajitsahu100/)
-
-[Rohan Rao](https://github.com/rohan-algorithm)
-
-[Sandipan sarkar](https://github.com/Sandipan103/)
-
-[Yogesh Kumar Sai](https://github.com/w3yogesh/)
 
 
 # Installation
